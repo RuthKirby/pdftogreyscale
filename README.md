@@ -1,5 +1,5 @@
 # Pdf to GrayScale
-
+Inspired by - https://tonyjunkes.com/blog/formatting-a-color-pdf-to-grayscale/
 ## Introduction
 
 Will change a colour PDF into greyscale or black and white by changing each page into a 
